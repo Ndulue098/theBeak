@@ -64,7 +64,7 @@ export default function Hero() {
               THE<br /><span className="-mt-1 md:-mt-4 block">BEAKS</span>
             </h1>
   
-            <div className="absolute top-1 sm:bg-purple-600  -right-6 md:-right-3.5 md:top-4 lg:right-8  lg:top-4   xl:right-14 xl:top-1 w-[80px] md:w-[100px] hero-ui">
+            <div className="absolute top-1  -right-6 md:-right-3.5 md:top-4 lg:right-8  lg:top-4   xl:right-14 xl:top-1 w-[80px] md:w-[100px] hero-ui">
               <p className="text-brand-pink text-[clamp(12px,1vw,18px)] italic tracking-tight sm:text-base md:text-xl lg:text-2xl xl:text-3xl font-semibold font-serif leading-tight">
                 Art Became <br /> A Species.
               </p>
