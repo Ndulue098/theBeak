@@ -1,0 +1,6 @@
+{
+  "name": "THE BEAKS",
+  "description": "A premium award-style immersive Web3 art/NFT experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
